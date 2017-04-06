@@ -9,8 +9,9 @@ First Name
 Last Name
 <input type="text" name="lastname">
 Male or Female
-<input type="radio" name="male">
-<input type="radio" name="female">
+<input type="radio" name="gender" value="male" checked> Male<br>
+  <input type="radio" name="gender" value="female"> Female<br>
+  <input type="radio" name="gender" value="other"> Other
 </form>
 <p>Data Anda akan kami jaga kerahasiaannya</p>
 ### Support or Contact
