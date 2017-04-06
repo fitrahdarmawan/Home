@@ -1,11 +1,13 @@
 # Welcome to Fitrah Darmawan's Site
-This Site Created to Share Any Information about Recent Issues in Technology
 
-If You want to read all of the article on this site, you must regist first.
-to regist please fill the following form
+<body>
+<h1>This Site Created to Share Any Information about Recent Issues in Technology</h1>
 
-<a href="https://fitrahdarmawan.github.io/form/"></a>
+<p>If You want to read all of the article on this site, you must regist first.</p>
+<p>to regist please fill the following form</p>
+<a href="https://fitrahdarmawan.github.io/form/">This is a link</a>
 
+</body>
 
 
 
