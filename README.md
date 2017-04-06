@@ -11,5 +11,5 @@ https://fitrahdarmawan.github.io/form/
 
 
 
-**support or Contact**
+**support or Contact:**
 for corresponding, please send your message at fitrahdarmawan@gmail.com
