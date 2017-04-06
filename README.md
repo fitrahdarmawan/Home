@@ -12,6 +12,7 @@ Last Name<br>
 <br>
 <input type="radio" name="gender" value="male" checked> Male<br>
   <input type="radio" name="gender" value="female"> Female<br>
+  <input type="submit" value="Submit">
  </form>
 <p>Data Anda akan kami jaga kerahasiaannya</p>
 ### Support or Contact
