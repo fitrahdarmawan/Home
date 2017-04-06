@@ -5,8 +5,9 @@ If You want to read all of the article on this site, you must regist first.
 to regist please fill the following form
 
 https://fitrahdarmawan.github.io/form/
-.
-.
-.
-Support or Contact:
+<br>
+<br>
+<br>
+
+**support or Contact**<br>
 for corresponding, please send your message at fitrahdarmawan@gmail.com
