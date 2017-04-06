@@ -7,21 +7,24 @@ This Site Created to Share Any Information about Recent Issues in Technology
 
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+<!DOCTYPE html>
+<html>
+<head>
+<title>Fitrah Darmawan</title>
+</head>
+<body>
+<form>
+First Name
+<input type="text" name="firstname">
+Last Name
+<input type="text" name="lastname">
+Male or Female
+<input type="radio" name="male">
+<input type="radio" name="female">
+<p>Data Anda akan kami jaga kerahasiaannya</p>
+</form>
+</body>
+</html>
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
