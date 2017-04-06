@@ -3,7 +3,7 @@
 This Site Created to Share Any Information about Recent Issues in Technology
 
 ### Home
-<form action="/action_page.php" method="post">
+<form action="/action_page.php">
 First Name<br>
 <input type="text" name="firstname">
 <br>
