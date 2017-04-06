@@ -2,8 +2,9 @@
 This Site Created to Share Any Information about Recent Issues in Technology
 
 If You want to read all of the article on this site, you must regist first.
-to regist please fill the following form
-[form](https://fitrahdarmawan.github.io/form/)
+to regist please fill the following
+
+[Registration Forms](https://fitrahdarmawan.github.io/form/)
 
 
 
