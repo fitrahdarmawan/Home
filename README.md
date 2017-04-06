@@ -5,7 +5,7 @@
 
 <p>If You want to read all of the article on this site, you must regist first.</p>
 <p>to regist please fill the following form</p>
-<a href="https://fitrahdarmawan.github.io/form/">This is a link</a>
+<a href="https://fitrahdarmawan.github.io/form/"></a>
 
 </body>
 
