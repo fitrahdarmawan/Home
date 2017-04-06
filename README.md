@@ -9,4 +9,4 @@ https://fitrahdarmawan.github.io/form/
 
 ### Support or Contact
 
-for correspondancing, please send your message in fitrahdarmawan@gmail.com
+for corresponding, please send your message at fitrahdarmawan@gmail.com
