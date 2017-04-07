@@ -23,17 +23,14 @@ li a:hover {
     background-color: #111111;
 }
 </style>
-</head>
-<body>
 
 <ul>
-  <li><a href="#home">Home</a></li>
+  <li><a href="#home">Profil</a></li>
   <li><a href="#news">News</a></li>
-  <li><a href="#contact">Contact</a></li>
-  <li><a href="#about">About</a></li>
+  <li><a href="#contact">Article</a></li>
+  <li><a href="#about">Download</a></li>
 </ul>
-
-Profil    |  Article  |  Download   |  Gallery  |
+<br>
 # Welcome to Fitrah Darmawan's Site
 This Site Created to Share Any Information about Recent Issues in Technology
 
