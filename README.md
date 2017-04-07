@@ -26,11 +26,11 @@ li a:hover {
 
 <ul>
   <li><a href="https://fitrahdarmawan.github.io/profil/">Profil</a></li>
-  <li><a href="#news">News</a></li>
-  <li><a href="#contact">Article</a></li>
-  <li><a href="#about">Download</a></li>
-  <li><a href="#about">Gallery</a></li>
-  <li><a href="#about">Contact Us</a></li>
+  <li><a href="https://fitrahdarmawan.github.io/news/">News</a></li>
+  <li><a href="https://fitrahdarmawan.github.io/article/">Article</a></li>
+  <li><a href="https://fitrahdarmawan.github.io/download/">Download</a></li>
+  <li><a href="https://fitrahdarmawan.github.io/gallery/">Gallery</a></li>
+  <li><a href="https://fitrahdarmawan.github.io/contactme/">Contact Me</a></li>
 </ul>
 <br>
 # Welcome to Fitrah Darmawan's Site
