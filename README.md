@@ -15,7 +15,7 @@ li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 16px;
+    padding: 10px;
     text-decoration: none;
 }
 
@@ -29,6 +29,8 @@ li a:hover {
   <li><a href="#news">News</a></li>
   <li><a href="#contact">Article</a></li>
   <li><a href="#about">Download</a></li>
+  <li><a href="#about">Gallery</a></li>
+  <li><a href="#about">Contact Us</a></li>
 </ul>
 <br>
 # Welcome to Fitrah Darmawan's Site
