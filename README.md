@@ -1,12 +1,4 @@
-<style>
-li {display:inline;}
-</style>
-<ul>
-<li><a href="https://fitrahdarmawan.github.io/form/ >Profil</a></li>
-<li><a href="https://fitrahdarmawan.github.io/form/ >Article</a></li>
-<li><a href="https://fitrahdarmawan.github.io/form/ >Download</a></li>
-<li><a href="https://fitrahdarmawan.github.io/form/ >Gallery</a></li>
-</ul>
+Profil    |  Article  |  Download   |  Gallery  |
 # Welcome to Fitrah Darmawan's Site
 This Site Created to Share Any Information about Recent Issues in Technology
 
