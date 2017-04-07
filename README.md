@@ -25,7 +25,7 @@ li a:hover {
 </style>
 
 <ul>
-  <li><a href="#home">Profil</a></li>
+  <li><a href="https://fitrahdarmawan.github.io/profil">Profil</a></li>
   <li><a href="#news">News</a></li>
   <li><a href="#contact">Article</a></li>
   <li><a href="#about">Download</a></li>
