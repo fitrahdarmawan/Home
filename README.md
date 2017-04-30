@@ -25,9 +25,9 @@ li a:hover {
 </style>
 
 <ul>
-  <li><a href="https://fitrahdarmawan.github.io/profil/">Home</a></li>
-  <li><a href="https://fitrahdarmawan.github.io/news/">Portofolio</a></li>
-  <li><a href="https://fitrahdarmawan.github.io/article/">News</a></li>
+  <li><a href="https://fitrahdarmawan.github.io/JustShare/">Home</a></li>
+  <li><a href="https://fitrahdarmawan.github.io/portofolio/">Portofolio</a></li>
+  <li><a href="https://fitrahdarmawan.github.io/news/">News</a></li>
   <li><a href="https://fitrahdarmawan.github.io/download/">Download</a></li>
   <li><a href="https://fitrahdarmawan.github.io/gallery/">Gallery</a></li>
   <li><a href="https://fitrahdarmawan.github.io/contactme/">Contact Me</a></li>
